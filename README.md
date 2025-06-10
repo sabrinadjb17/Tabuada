@@ -1,4 +1,4 @@
-💖 Sua Tabuada Encantada 💖
+#💖 Sua Tabuada Encantada 💖
 Seja muito bem-vindo(a) à sua tabuada especial! 🌟
 
 Aqui você pode escolher qualquer número que quiser, e o programa vai mostrar com muito carinho todas as multiplicações desse número, do 1 ao 10. Cada passo é explicado com cuidado, para que você entenda direitinho como a tabuada funciona.
